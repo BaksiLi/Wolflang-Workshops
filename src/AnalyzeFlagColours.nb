@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    818676,      20537]
+NotebookDataLength[    818654,      20536]
 NotebookOptionsPosition[    816444,      20492]
-NotebookOutlinePosition[    816801,      20508]
-CellTagsIndexPosition[    816758,      20505]
+NotebookOutlinePosition[    816779,      20507]
+CellTagsIndexPosition[    816736,      20504]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -20492,7 +20492,6 @@ A similar research: https://www.crwflags.com/fotw/flags/xf-csts.html\
 },
 WindowSize->{808, 758},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
-WindowStatusArea->"",
 FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
 StyleDefinitions->"Default.nb"
 ]
